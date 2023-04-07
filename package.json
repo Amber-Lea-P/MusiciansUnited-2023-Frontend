@@ -29,5 +29,4 @@
     "vite": "^4.0.0"
   },
 
-  "proxy" : "https://musiciansunited-backend.onrender.com"
 }

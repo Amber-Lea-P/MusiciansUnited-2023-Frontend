@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const newRequest = axios.create({
-    baseURL: "https://musiciansunited-backend.onrender.com",
+    baseURL: "https://musiciansunited.herokuapp.com/",
     withCredentials: true,
   });
 

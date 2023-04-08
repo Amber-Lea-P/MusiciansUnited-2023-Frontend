@@ -50,7 +50,7 @@ return (
           {isLoadingUser ? (
             "loading"
           ) : errorUser ? (
-            "Something went wrong!"
+            "User Information"
           ) : (
             <div className="user">
               <img
@@ -81,7 +81,7 @@ return (
           {isLoadingUser ? (
             "loading"
           ) : errorUser ? (
-            "Something went wrong!"
+            "User Information"
           ) : (
             <div className="seller">
               <h2>About The Musician</h2>
